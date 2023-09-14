@@ -1,2 +1,2 @@
-# Machine Learningfor Beginners
- Machine Learningfor Beginners, by BPB Publications
+# Machine Learning for Beginners - 2nd Edition
+ Machine Learning for Beginners - 2nd Edition, by BPB Publications
