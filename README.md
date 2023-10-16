@@ -1,9 +1,9 @@
 # Machine Learning for Beginners - 2nd Edition
 
-Unlock the potential of design patterns to write better code in C# 11 and .NET 7
-
 Learn how to build a complete machine learning pipeline by mastering feature extraction, feature selection, and algorithm training
-](https://bpbonline.com/products/machine-learning-for-beginners-2nd-edition),published by BPB Publications.
+
+This is the repository for [Machine Learning for Beginners - 2nd Edition
+](https://bpbonline.com/products/simulation-driven-electronics-design?variant=42869556576456),published by BPB Publications.
 
 <img src="9789355515636.jpg">
 
